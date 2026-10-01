@@ -34,7 +34,7 @@ Farmers and policymakers struggle to **predict crop yields and plan resources** 
 - 🚜 How can irrigation resources be allocated more effectively?  
 - 🌍 Which regions are most vulnerable to climate change impacts?  
 - 🔄 How do seasons (Rabi, Kharif, Zaid) affect yield outcomes?  
-- 💰 Which crops deliver the highest economic value across years? .
+- 💰 Which crops deliver the highest economic value across years? 
 
 •	Goal of the Dashboard  
 - Analyzes **rainfall vs. crop yield correlations**  
@@ -66,4 +66,4 @@ Farmers and policymakers struggle to **predict crop yields and plan resources** 
 - 🔄 **Pipeline Workflow:** Data uploaded to S3 → ingested into Snowflake → transformed with SQL → visualized in Power BI  
 - 🔐 **Security Note:** All credentials managed via Snowflake storage integrations; no secrets exposed in this report.
 ### 7.	Screenshots 
- ![Dashboard Preview](https://github.com/Atharva2412/Ola-Booking-Data-Analysis/blob/main/ola_dashboard.png)
+ ![Dashboard Preview](https://github.com/Atharva2412/Agricultural-Analytics-Climate-Forecasting-Pipeline/blob/main/agriculture_dashboard.png)
